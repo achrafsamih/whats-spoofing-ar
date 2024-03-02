@@ -16,4 +16,4 @@ if [ ! -d "$HISTORY_PATH" ]; then
   mkdir -p $HISTORY_PATH
 fi
 
-./whats-spoofing -media-path $DATA_PATH -history-path $HISTORY_PATH -request-full-sync false -debug false 
+./whats-spoofing-ar -media-path $DATA_PATH -history-path $HISTORY_PATH -request-full-sync false -debug false 
