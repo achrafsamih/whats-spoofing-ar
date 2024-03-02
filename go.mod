@@ -1,4 +1,4 @@
-module github.com/lichti/whats-spoofing
+module github.com/achrafsamih/whats-spoofing-ar
 
 go 1.22.0
 
