@@ -1,6 +1,6 @@
 module github.com/lichti/whats-spoofing
 
-go 1.21.4
+go 1.22.0
 
 require (
 	filippo.io/edwards25519 v1.0.0 // indirect
